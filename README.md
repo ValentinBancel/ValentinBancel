@@ -2,7 +2,6 @@
 <h3 align="center">A passionate backend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinbancel&label=Profile%20views&color=0e75b6&style=flat" alt="valentinbancel" /> </p>
-
 - 🔭 I’m currently working on [inzpok.com](https://www.inzpok.com)
 
 - 🌱 I’m currently learning **Symphony, VueJs TypeScript, Python(advance)**
