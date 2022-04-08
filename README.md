@@ -6,6 +6,13 @@
 
 - 🌱 I’m currently learning **Symphony, VueJs TypeScript, Python(advance)**
 
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValentinBancel&show_icons=true&locale=en&layout=compact" alt="valentinbancel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ValentinBancel&show_icons=true&locale=en" alt="valentinbancel" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
