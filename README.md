@@ -97,3 +97,4 @@
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=valentinbancel&show_icons=true&locale=en&layout=compact"
         alt="ValentinBancel" /></p>
+<p>{{ TOTAL_REPOS_SIZE_GB }}</p>
