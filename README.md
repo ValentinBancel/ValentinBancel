@@ -6,8 +6,7 @@
         alt="valentinbancel" /> </p>
 - 🔭 I’m currently working on [inzpocket.com](https://www.inzpocket.com)
 
-- 🌱 I’m currently learning VueJs TypeScript, Python(advance)**
--
+- 🌱 I’m currently learning *VueJs*, *TypeScript*, *Python(advance)*
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=ValentinBancel&count_private=true&show_icons=true&locale=en"
         alt="valentinbancel" /></p>
