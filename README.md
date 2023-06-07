@@ -88,7 +88,3 @@
 <p><img align="center"
         src="https://github-readme-streak-stats.herokuapp.com?user=ValentinBancel&hide_border=true&date_format=j%20M%5B%20Y%5D"
         alt="ValentinBancel" /></p>
-
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=valentinbancel&label=Profile%20views&color=0e75b6&style=flat"
-        alt="valentinbancel" /> </p>
