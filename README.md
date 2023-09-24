@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinbancel" alt="valentinbancel" /></a> </p>
 
-- 🔭 I’m currently working on [INZPOCKET](Inzpocket.com)
+- 🔭 I’m currently look for an apprenticeship
 
 - 🌱 I’m currently learning **Nestjs, Keras, Tensorflow, Sickit-learn and Angular**
 
