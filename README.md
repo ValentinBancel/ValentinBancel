@@ -102,9 +102,9 @@
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=valentinbancel&show_icons=true&locale=en" alt="valentinbancel"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValentinBancel&show_icons=true&locale=en" alt="valentinbancel"/>
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinbancel&" alt="valentinbancel" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinBancel&" alt="valentinbancel" />
 </p>
