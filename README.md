@@ -2,22 +2,9 @@
 <h3 align="center">A passionate Full-stack developer from France</h3>
 
 <p align="center">
-    <p align="left">
-        <a href="https://readme-jokes.vercel.app">
-            <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
-        </a>
-    </p>
-    <p align="rigth">
-        <p>
-            <img src="https://komarev.com/ghpvc/?username=valentinbancel&label=Profile%20views&color=0e75b6&style=flat" alt="valentinbancel" />
-        <p/>
-        <p>
-            <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DValentinBancel&longCache=true"/>
-        <p/>
-        <p>
-            <img src="https://img.shields.io/github/stars/ValentinBancel?label=Stars" alt="stars">
-        </p>
-    <p>
+    <img src="https://komarev.com/ghpvc/?username=valentinbancel&label=Profile%20views&color=0e75b6&style=flat" alt="valentinbancel" />
+    <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DValentinBancel&longCache=true"/>
+    <img src="https://img.shields.io/github/stars/ValentinBancel?label=Stars" alt="stars">
 </p>
 
 <p align="left">
