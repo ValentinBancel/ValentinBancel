@@ -97,7 +97,7 @@
     </a> 
 </p>
 
-<p>
+<!-- <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValentinBancel&show_icons=true&locale=en&layout=compact&langs_count=8" alt="valentinbancel"/>
 </p>
 
@@ -107,7 +107,7 @@
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinBancel&" alt="valentinbancel" />
-</p>
+</p> -->
 <p>
     <img src="https://myreadme.vercel.app/api/embed/ValentinBancel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
