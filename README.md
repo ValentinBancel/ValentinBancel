@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Valentin Bancel</h1>
 <h3 align="center">A passionate Full-stack developer from France</h3>
 
+<a href="https://app.daily.dev/valentin1804"><img src="https://api.daily.dev/devcards/v2/ma1xbgusVKMXZZT3ps2wC.png?r=u27" width="356" alt="Valentin's Dev Card"/></a>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=valentinbancel&label=Profile%20views&color=0e75b6&style=flat" alt="valentinbancel" />
     <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DValentinBancel&longCache=true"/>
