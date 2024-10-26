@@ -74,8 +74,8 @@
     </a> 
 </p>
 
-<p>
+<!-- <p>
     <img src="https://myreadme.vercel.app/api/embed/ValentinBancel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</p>
+</p> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ValentinBancel&bg_color=000000&color=ffccfc&line=00ffd5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
